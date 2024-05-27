@@ -10,3 +10,15 @@ Created for a project during CSE 3310.
 
 ![List of records currently storaged in the device.](https://github.com/TahMeat/BlazianApp/assets/40926372/8b7871c0-a6c8-4091-aac4-a36cb2be9b5e)
 --
+
+
+## Acknowledgements
+
+ - [RetroFit](https://square.github.io/retrofit/)
+
+- [ExchangeRate-API](https://www.exchangerate-api.com/)
+
+- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
+
+- [Google Icons](https://github.com/google/material-design-icons/)
+
